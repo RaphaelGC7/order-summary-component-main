@@ -1,13 +1,12 @@
 import './App.css';
+import Attribution from './components/Attribution';
 import TopAndContent from './components/TopAndContent';
 
 function App() {
   return (
     <div className="App">
       <TopAndContent/>
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      <Attribution/>
     </div>
   );
 }
