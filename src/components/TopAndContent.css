@@ -13,6 +13,11 @@
 }
 
 #HeroImage {
-    border-top-left-radius: 7%; 
-    border-top-right-radius: 7%;
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px;
+}
+
+p { 
+    color: grey;
+    font-size: 16px; 
 }
